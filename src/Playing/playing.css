@@ -1,4 +1,7 @@
-.layout_music {
+.player-music {
+
+    background-color: #181818;
+    border-top: 1px solid #282828;
     position: fixed;
-    background-color: gray;
+    bottom: 0;
 }

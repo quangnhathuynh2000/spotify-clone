@@ -18,11 +18,28 @@
 .header__left>input {
     border: none;
     width: 100%;
+
+}
+
+.Avatar {
+    border-radius: 50%;
+    height: 100%;
+    object-fit: contain;
+
 }
 
 .header__right {
-    display: flex;
     align-items: center;
+    background-color: rgba(0, 0, 0, .7);
+    border: 0;
+    border-radius: 23px;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    height: 32px;
+    justify-content: center;
+    padding: 2px;
+    position: relative;
 }
 
 .header__right>h4 {

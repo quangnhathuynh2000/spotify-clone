@@ -22,6 +22,7 @@ function Playing() {
                 onClickNext={handleClickNext}
                 onClickPrevious={handleClickPre}
             />
+
         </div>
 
     );
